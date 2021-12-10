@@ -1,0 +1,1 @@
+copy %~dp0dist\wfs.js E:\window_desktop\07.上海项目\shanghai\src\common\video
