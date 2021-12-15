@@ -10,7 +10,7 @@ wfs.js - html5 player for raw h.264 streams.
  A javascript library which implements websocket client for watching and focusing on raw h.264 live streams in your browser that works directly on top of a standard HTML5 element and MediaSource Extensions. 
  
 ##  Build
-git clone https://github.com/ChihChengYang/wfs.js.git
+git clone https://github.com/Yordroid/wfs.js
 
 **wfs.js**  
 
